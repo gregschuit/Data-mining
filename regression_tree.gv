@@ -1,0 +1,208 @@
+digraph regression_tree {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	"Autocor_length
+2.00000" -> "Eta_e
+284.69826"
+	"Eta_e
+284.69826" -> "Freq1_harmonics_amplitude_0
+0.39763"
+	"Freq1_harmonics_amplitude_0
+0.39763" -> "Psi_eta
+0.77454"
+	"Psi_eta
+0.77454" -> "hoja N0"
+	"Psi_eta
+0.77454" -> "hoja N1"
+	"Freq1_harmonics_amplitude_0
+0.39763" -> "hoja N2"
+	"Eta_e
+284.69826" -> "Freq3_harmonics_amplitude_0
+1.96104"
+	"Freq3_harmonics_amplitude_0
+1.96104" -> "Autocor_length
+1.00000"
+	"Autocor_length
+1.00000" -> "Freq3_harmonics_amplitude_2
+0.46275"
+	"Freq3_harmonics_amplitude_2
+0.46275" -> "Freq1_harmonics_amplitude_0
+0.62190"
+	"Freq1_harmonics_amplitude_0
+0.62190" -> "Freq3_harmonics_amplitude_3
+0.17163"
+	"Freq3_harmonics_amplitude_3
+0.17163" -> "Mean
+19.70710"
+	"Mean
+19.70710" -> "Mean
+11.39024"
+	"Mean
+11.39024" -> "hoja N3"
+	"Mean
+11.39024" -> "Freq2_harmonics_amplitude_0
+0.24758"
+	"Freq2_harmonics_amplitude_0
+0.24758" -> "Eta_e
+408.85965"
+	"Eta_e
+408.85965" -> "hoja N4"
+	"Eta_e
+408.85965" -> "SlottedA_length
+0.17615"
+	"SlottedA_length
+0.17615" -> "Mean
+11.39055"
+	"Mean
+11.39055" -> "hoja N5"
+	"Mean
+11.39055" -> "Psi_eta
+1.01642"
+	"Psi_eta
+1.01642" -> "FluxPercentileRatioMid50
+0.07316"
+	"FluxPercentileRatioMid50
+0.07316" -> "hoja N6"
+	"FluxPercentileRatioMid50
+0.07316" -> "Skew
+1.20793"
+	"Skew
+1.20793" -> "MaxSlope
+2.40099"
+	"MaxSlope
+2.40099" -> "hoja N7"
+	"MaxSlope
+2.40099" -> "Con
+0.00000"
+	"Con
+0.00000" -> "hoja N8"
+	"Con
+0.00000" -> "Period_fit
+0.43977"
+	"Period_fit
+0.43977" -> "FluxPercentileRatioMid50
+0.22137"
+	"FluxPercentileRatioMid50
+0.22137" -> "hoja N9"
+	"FluxPercentileRatioMid50
+0.22137" -> "hoja N10"
+	"Period_fit
+0.43977" -> "hoja N11"
+	"Skew
+1.20793" -> "hoja N12"
+	"Psi_eta
+1.01642" -> "MaxSlope
+0.33003"
+	"MaxSlope
+0.33003" -> "hoja N13"
+	"MaxSlope
+0.33003" -> "MaxSlope
+0.33897"
+	"MaxSlope
+0.33897" -> "hoja N14"
+	"MaxSlope
+0.33897" -> "Skew
+-4.44767"
+	"Skew
+-4.44767" -> "hoja N15"
+	"Skew
+-4.44767" -> "Psi_eta
+1.72537"
+	"Psi_eta
+1.72537" -> "Eta_e
+10517.30094"
+	"Eta_e
+10517.30094" -> "hoja N16"
+	"Eta_e
+10517.30094" -> "Mean
+18.72467"
+	"Mean
+18.72467" -> "hoja N17"
+	"Mean
+18.72467" -> "hoja N18"
+	"Psi_eta
+1.72537" -> "hoja N19"
+	"SlottedA_length
+0.17615" -> "hoja N20"
+	"Freq2_harmonics_amplitude_0
+0.24758" -> "hoja N21"
+	"Mean
+19.70710" -> "hoja N22"
+	"Freq3_harmonics_amplitude_3
+0.17163" -> "hoja N23"
+	"Freq1_harmonics_amplitude_0
+0.62190" -> "hoja N24"
+	"Freq3_harmonics_amplitude_2
+0.46275" -> "hoja N25"
+	"Autocor_length
+1.00000" -> "PercentDifferenceFluxPercentile
+0.00581"
+	"PercentDifferenceFluxPercentile
+0.00581" -> "hoja N26"
+	"PercentDifferenceFluxPercentile
+0.00581" -> "Freq2_harmonics_amplitude_0
+0.27803"
+	"Freq2_harmonics_amplitude_0
+0.27803" -> "Mean
+16.11154"
+	"Mean
+16.11154" -> "Psi_eta
+0.88107"
+	"Psi_eta
+0.88107" -> "hoja N27"
+	"Psi_eta
+0.88107" -> "hoja N28"
+	"Mean
+16.11154" -> "hoja N29"
+	"Freq2_harmonics_amplitude_0
+0.27803" -> "hoja N30"
+	"Freq3_harmonics_amplitude_0
+1.96104" -> "hoja N31"
+	"Autocor_length
+2.00000" -> "Psi_eta
+0.49538"
+	"Psi_eta
+0.49538" -> "Freq3_harmonics_amplitude_0
+3.66564"
+	"Freq3_harmonics_amplitude_0
+3.66564" -> "Autocor_length
+4.00000"
+	"Autocor_length
+4.00000" -> "Period_fit
+0.07929"
+	"Period_fit
+0.07929" -> "SlottedA_length
+0.22229"
+	"SlottedA_length
+0.22229" -> "hoja N32"
+	"SlottedA_length
+0.22229" -> "Autocor_length
+3.00000"
+	"Autocor_length
+3.00000" -> "hoja N33"
+	"Autocor_length
+3.00000" -> "hoja N34"
+	"Period_fit
+0.07929" -> "hoja N35"
+	"Autocor_length
+4.00000" -> "hoja N36"
+	"Freq3_harmonics_amplitude_0
+3.66564" -> "hoja N37"
+	"Psi_eta
+0.49538" -> "Psi_eta
+0.68415"
+	"Psi_eta
+0.68415" -> "Psi_CS
+0.34074"
+	"Psi_CS
+0.34074" -> "hoja N38"
+	"Psi_CS
+0.34074" -> "hoja N39"
+	"Psi_eta
+0.68415" -> "Psi_CS
+0.35372"
+	"Psi_CS
+0.35372" -> "hoja N40"
+	"Psi_CS
+0.35372" -> "hoja N41"
+}

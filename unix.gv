@@ -1,0 +1,46 @@
+digraph unix {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	"Autocor_length
+2.00" -> "Eta_e
+284.70"
+	"Eta_e
+284.70" -> "Freq1_harmonics_amplitude_0
+0.40"
+	"Freq1_harmonics_amplitude_0
+0.40" -> "Psi_eta
+0.77"
+	"Eta_e
+284.70" -> "Freq3_harmonics_amplitude_0
+1.96"
+	"Freq3_harmonics_amplitude_0
+1.96" -> "Autocor_length
+2.00"
+	"Autocor_length
+2.00" -> "Freq3_harmonics_amplitude_2
+0.46"
+	"Autocor_length
+2.00" -> "PercentDifferenceFluxPercentile
+0.01"
+	"Autocor_length
+2.00" -> "Psi_eta
+0.50"
+	"Psi_eta
+0.50" -> "Freq3_harmonics_amplitude_0
+3.67"
+	"Freq3_harmonics_amplitude_0
+3.67" -> "Autocor_length
+5.00"
+	"Autocor_length
+5.00" -> "Period_fit
+0.04"
+	"Psi_eta
+0.50" -> "Psi_eta
+0.68"
+	"Psi_eta
+0.68" -> "Psi_CS
+0.34"
+	"Psi_eta
+0.68" -> "Psi_CS
+0.35"
+}
